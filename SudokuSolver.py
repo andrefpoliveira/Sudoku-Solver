@@ -10,7 +10,7 @@ exampleGrid = [[5,3,0,0,7,0,0,0,0],
         [0,0,0,0,8,0,0,7,9]]
 
 def printGrid(grid):
-    for i in range(len(grid)):
+    for i in range(9):
         print(grid[i])
 
     print("Finish")
